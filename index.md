@@ -8,6 +8,6 @@ The creation of high quality textures for immersive ur-ban environments is a cen
 
 ### Pipeline
 
-![pipeline](pipeline_bold.pdf)
+![pipeline](pipeline.png)
 
 ### Results
