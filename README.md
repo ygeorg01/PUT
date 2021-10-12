@@ -1,1 +1,1 @@
-# Projective_Urban_Texturing
+# Projective Urban Texturing
