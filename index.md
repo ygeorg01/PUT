@@ -16,3 +16,4 @@ At each iteration our system creates a partially textured image by rendering the
 
 ![results](results.png)
 
+Renderings textured by PUT trained on London panoramas. We show street-level renderings.
