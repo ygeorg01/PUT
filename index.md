@@ -10,7 +10,7 @@ The creation of high quality textures for immersive ur-ban environments is a cen
 
 ![pipeline](pipeline.png)
 
-At each iteration our system creates a \textit{partially textured image} by rendering the 3D geometry(top left) using the synthesized texture atlas from previous iterations. The \textit{texture propagation module} uses the generated image to update the texture atlas. The updated atlas that contains the new textures is used for the next iteration. A visualization of our iterative texturing synthesis output is displayed on a building facade on the right.
+At each iteration our system creates a partially textured image by rendering the 3D geometry(top left) using the synthesized texture atlas from previous iterations. The \textit{texture propagation module} uses the generated image to update the texture atlas. The updated atlas that contains the new textures is used for the next iteration. A visualization of our iterative texturing synthesis output is displayed on a building facade on the right.
 
 ### Results
 
