@@ -1,4 +1,4 @@
-<div style="text-align: center;" markdown="1">
+<div  class="myWrapper" markdown="1">
 ### Projective Urban Texturing
 </div>
 
