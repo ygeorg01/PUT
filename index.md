@@ -1,6 +1,6 @@
-<p style="text-align: center;" markdown="1">
+<div style="text-align: center;" markdown="1">
 ### Projective Urban Texturing
-</p>
+</div>
 
 ![teaser](teaser_iccv_2.png)
 
