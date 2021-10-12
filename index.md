@@ -1,8 +1,6 @@
 ## Projective Urban Texturing
 
-You can use the [editor on GitHub](https://github.com/ygeorg01/Projective_Urban_Texturing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The creation of high quality textures for immersive ur-ban environments is a central component of the city model-ing problem, this paper proposes a method forautomatic generation of textures for 3D building modelsin immersive urban environments. Many recent pipelinescapture or synthesize large quantities of city geometry us-ing scanners or procedural modeling pipelines. Such ge-ometry is intricate and realistic, however the generationof photo-realistic textures for such large scenes remains aproblem - photo datasets are often panoramic and are chal-lenging to re-target to new geometry. To address these is-sues we present a neural architecture to generate photo-realistic textures for urban environments. Our ProjectiveUrban Texturing (PUT) system iteratively re-targets textu-ral style and detail from real-world panoramic images tounseen, unstructured urban meshes. The output is a tex-ture atlas, applied onto the input 3D urban model geome-try. PUT is conditioned on prior adjacent textures to ensureconsistency between consecutively generated textures. Weshow results for several generated texture atlases, learnedfrom [Yiangos: two] cities, and present quantitative evalu-ation of our outputs.
 
 ### Markdown
 
