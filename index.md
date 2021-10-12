@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Projective Urban Texturing
 
 You can use the [editor on GitHub](https://github.com/ygeorg01/Projective_Urban_Texturing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
