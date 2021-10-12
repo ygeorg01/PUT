@@ -1,7 +1,7 @@
 <div  align="center" markdown="1">
 
 ## Projective Urban Texturing
-#### Yiangos Georgiou &emsp; Melinos Averkiou 
+#### Yiangos Georgiou &emsp; Melinos Averkiou &emsp; Tom Kelly &emsp; Evangelos Kalogerakis
 
 </div>
 
