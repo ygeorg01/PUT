@@ -1,4 +1,4 @@
-## Projective Urban Texturing
+<p style="text-align: center;">Projective Urban Texturing</p>
 
 ![teaser](teaser_iccv_2.png)
 
