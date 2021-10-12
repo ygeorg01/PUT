@@ -1,5 +1,7 @@
 <div  align="center" markdown="1">
+
 ## Projective Urban Texturing
+
 </div>
 
 ![teaser](teaser_iccv_2.png)
