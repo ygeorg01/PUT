@@ -14,3 +14,5 @@ At each iteration our system creates a partially textured image by rendering the
 
 ### Results
 
+![results](results.png)
+
