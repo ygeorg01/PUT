@@ -1,6 +1,7 @@
 # Projective Urban Texturing
 
 ## Setup the experiment
+* Clone the repository
 * Download libigl and example scence data.
 * Unzip inside PUT folder
 * Run:
