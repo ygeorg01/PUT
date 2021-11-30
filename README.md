@@ -1,9 +1,7 @@
 # Projective Urban Texturing
 
-## Setup example sample experiment
+## Setup the experiment
 * Download libigl and example scence data.
 * Unzip inside PUT folder
-
-
-## Run texturing pipeline on given scene
-<code> python texturing.py </code>
+* Run texturing pipeline on given scene
+<code> python texture_mesh.py --scene_path ../scenes/005 --model_name consistency --blend custom </code>
