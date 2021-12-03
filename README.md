@@ -15,6 +15,7 @@
 
 ## Extract viewpoints and renderings from a scene.
 * Run the script that exist in blender file(blender_con.blend) and change the paths accordingly. This will result to grayscales rendering and viepoints' rotation and tranlation matrices.
+* Use smart-unwrap to create uv coordinates and store your mesh as .obj file.
 
 ## Cite
 ```
