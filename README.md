@@ -1,6 +1,6 @@
 # Projective Urban Texturing
 
-![](teaser_icc_2.png)
+![img](teaser_iccv_2.png)
 
 ## Setup the experiment
 * Clone the repository
