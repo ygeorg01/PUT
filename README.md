@@ -17,11 +17,11 @@
 * Run the script that exist in blender file(blender_con.blend) and change the paths accordingly. This will result to grayscale rendering and viepoints rotation and tranlation matrices.
 
 ## Cite
-<code>
+```
   @inproceedings{PUT2021, 
   title={Projective Urban Texturing},
   author={Yiangos Georgiou and Melinos Averkiou and Tom Kelly and Evangelos Kalogerakis},
   booktitle={International Conference on 3D Vision (3DV)},
   year={2021}
 }
-  </code>
+```
