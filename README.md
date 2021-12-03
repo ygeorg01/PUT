@@ -18,8 +18,8 @@
 
 ## Cite
 <code>
-  @inproceedings{PUT2021,
-  title={Projective Urban Texturing},
+  @inproceedings{PUT2021, <br>
+  title={Projective Urban Texturing},<br>
   author={Yiangos Georgiou and Melinos Averkiou and Tom Kelly and Evangelos Kalogerakis},
   booktitle={International Conference on 3D Vision (3DV)},
   year={2021}
