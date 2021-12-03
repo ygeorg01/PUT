@@ -11,7 +11,7 @@
 
 
 ## Extract dictionaries and 2D-3D correspondances.
-* Run <code> python reprojection --scene_path ../scenes/005/ --mesh_name 005 --create_dict --create_3D_mapping </code>
+* Run <code> python reprojection.py --scene_path ../scenes/005/ --mesh_name 005 --create_dict --create_3D_mapping </code>
 
 ## Extract viewpoints and renderings from a scene.
 * Run the script that exist in blender file(blender_con.blend) and change the paths accordingly. This will result to grayscale rendering and viepoints rotation and tranlation matrices.
