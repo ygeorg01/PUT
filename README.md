@@ -3,7 +3,7 @@
 ![img](teaser_iccv_2.png)
 
 ## Video(Presentation)
-<a href="{https://www.youtube.com/watch?v=QN18pQsbXKQ-url}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
+<a href="{https://www.youtube.com/watch?v=QN18pQsbXKQ-url}" title="Projective Urban Texturing"></a>
 
 ## Setup the experiment
 * Clone the repository
