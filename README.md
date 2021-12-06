@@ -2,9 +2,6 @@
 
 ![img](teaser_iccv_2.png)
 
-## Video(Presentation)
-<a href="{https://www.youtube.com/watch?v=QN18pQsbXKQ-url}" title="Projective Urban Texturing"><img src="{teaser_iccv_2.png}" alt="Alternate Text" /></a>
-
 ## Setup the experiment
 * Clone the repository
 * Download libigl and example scence data. [Link](https://ucy-my.sharepoint.com/:u:/g/personal/ygeorg01_ucy_ac_cy/EclwsJHnDlxLhZzg8HFBPUAB0ZgJdxb475k9Joaf5SGZZg?e=kiiwBz).
