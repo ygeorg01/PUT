@@ -12,12 +12,14 @@
 The creation of high quality textures for immersive ur-ban environments is a central component of the city model-ing problem, this paper proposes a method forautomatic generation of textures for 3D building modelsin immersive urban environments. Many recent pipelinescapture or synthesize large quantities of city geometry using scanners or procedural modeling pipelines. Such geometry is intricate and realistic, however the generationof photo-realistic textures for such large scenes remains aproblem - photo datasets are often panoramic and are chal-lenging to re-target to new geometry. To address these issues we present a neural architecture to generate photo-realistic textures for urban environments. Our Projective Urban Texturing (PUT) system iteratively re-targets textural style and detail from real-world panoramic images tounseen, unstructured urban meshes. The output is a texture atlas, applied onto the input 3D urban model geometry. PUT is conditioned on prior adjacent textures to ensureconsistency between consecutively generated textures. Weshow results for several generated texture atlases, learnedfrom two cities, and present quantitative evaluation of our outputs.
 
 ### Video(Presentation)
-<iframe src="https://www.youtube.com/embed/{{ include.id }}" 
+
+<iframe src="http://www.youtube.com/embed/{{ include.id }}" 
     width="560" 
     height="315"
     frameborder="0" 
     allowfullscreen>
 </iframe>
+
 ### Pipeline
 
 ![pipeline](pipeline.png)
