@@ -13,7 +13,7 @@ The creation of high quality textures for immersive ur-ban environments is a cen
 
 ### Video(Presentation)
 
-<iframe src="http://www.youtube.com/embed/{{ include.id }}" 
+<iframe src="https://youtu.be/QN18pQsbXKQ" 
     width="560" 
     height="315"
     frameborder="0" 
