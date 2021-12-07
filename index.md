@@ -15,6 +15,8 @@ The creation of high quality textures for immersive ur-ban environments is a cen
 
 Link: https://www.youtube.com/watch?v=QN18pQsbXKQ&t=1s
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QN18pQsbXKQ&t=1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Pipeline
 
 ![pipeline](pipeline.png)
